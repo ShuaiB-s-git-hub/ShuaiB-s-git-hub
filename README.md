@@ -8,4 +8,4 @@
 ShuaiB-s-git-hub/ShuaiB-s-git-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-没事儿，老子知道github在中国慢的一批，但是老子就是来学洋文的。来吧！老子和洋文只能活一个！！！
+
